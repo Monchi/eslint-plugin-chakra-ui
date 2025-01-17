@@ -49,7 +49,7 @@ importers:
         specifier: ^4.1.5
         version: 4.1.5
       prettier:
-        specifier: ^3.2.5
+        specifier: ^3.4.2
         version: 3.4.2
       typescript:
         specifier: ^5.3.3
